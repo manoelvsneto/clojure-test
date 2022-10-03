@@ -1,8 +1,13 @@
 # Usage
+
 lein deps
+
 lein run
 
 Now you can visit [`localhost:3000`](http://localhost:3000) from your browser.
+
+Create tables sql server
+
 
 CREATE TABLE authors
 (
